@@ -1,2 +1,2 @@
 # rabona
-GitHub storage engine for static websites
+Client-side database services for static websites
