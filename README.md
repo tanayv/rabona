@@ -1,5 +1,7 @@
 # Rabona
-Database service using Google Sheets or GitHub APIs
+Database service using Google Sheets or GitHub
+
+[![NPM Version](https://img.shields.io/npm/v/rabona.svg)](https://npmjs.org/package/rabona)
 
 ## Contents
 1.  Storage Engines
